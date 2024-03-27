@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🏫 I'm a 42 Heilbronn student.
 - 🔭 I’m currently working on the core curriculum.
-- 🌱 I’m currently learning C.
+- 🌱 Right now all projects are in C.
 - 🤖 I'm looking forward to participate in Hackathons.
 <!--
 **Stemmzi/Stemmzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
