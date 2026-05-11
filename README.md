@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🏫 I'm a 42 Heilbronn student.
-- 🔭 I’m currently working on the core curriculum.
-- 🌱 Coding is in C and C++.
+- 🔭 I’m currently studying Business Informatics at HHN.
+- 🌱 Coding projects are in C and C++.
 - 🤖 I'm looking forward to participate in Hackathons.
 
 ### My Projects:
@@ -27,4 +27,16 @@
 
 | [CPP00] | [CPP01] | [CPP02] | [CPP03] | [CPP04] | [CPP05] | [CPP06] | [CPP07] | [CPP08] | [CPP09]
 |--|--|--|--|--|--|--|--|--|--|
+</td> </tr> </table>
+
+<table>
+<tr>
+<th align="left"> &nbsp; Second half core curriculum</th>
+</tr>
+<tr>
+
+<td>
+
+| [cub3d] | [Inception] | [webserv] | [ft_transcendence]
+|--|--|--|--|
 </td> </tr> </table>
